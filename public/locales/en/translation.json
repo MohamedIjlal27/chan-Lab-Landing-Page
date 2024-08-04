@@ -1,0 +1,89 @@
+{
+  "header": {
+    "logo": "Delivery",
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "contact": "Contact us"
+    },
+    "order": "Contact Us!"
+  },
+    "main": {
+      "home": {
+        "title": "Efficient Sample & Report Delivery",
+        "description": "Seamlessly manage the delivery of medical samples and reports between channel centers and laboratories with our reliable service.",
+        "getStarted": "Get Started"
+      },
+      "about": {
+        "title": "Discover Our Delivery Solution",
+        "description": "We specialize in providing a dependable delivery service that connects channel centers with laboratories, ensuring timely and secure handling of medical samples and reports."
+      },
+      "security": {
+        "title": "Prioritizing Your Safety",
+        "description": "Our delivery process strictly follows health and safety protocols, ensuring that all medical samples and reports are handled with care. Watch our video to see our safety measures in action."
+      },
+      "services": {
+        "title": "Our Core Services",
+        "learnMore": "Learn More",
+        "servOff1": "Secure Handling",
+        "descOff1": "We ensure that all samples and reports are securely handled and delivered with the utmost care.",
+        "servOff2": "Real-Time Tracking",
+        "descOff2": "Track the status of your samples and reports in real-time from pickup to delivery.",
+        "servOff3": "Reliable Communication",
+        "descOff3": "Stay informed with notifications and updates throughout the delivery process."
+      },
+      "app": {
+        "title": "Monitor Deliveries in Real-Time",
+        "description": "Use our app to track your sample and report deliveries, ensuring you have up-to-date information at every step. Download the app today!",
+        "storeApple": "App Store",
+        "storeGoogle": "Google Play"
+      },
+      "contact": {
+        "title": "Connect with Us",
+        "description": "For any inquiries or support, contact us via phone, email, or visit our service center. We’re here to ensure smooth and efficient delivery service.",
+        "info": {
+          "phoneLabel": "Phone",
+          "phone": "0727920628",
+          "emailLabel": "Email",
+          "email": "ijlalfairos2000@outlook.com",
+          "addressLabel": "Address",
+          "address": ""
+        },
+        "contactUs": "Contact Us"
+      }
+    },
+    "footer": {
+      "logo": "MedDelivery",
+      "description": "Ensuring Safe and Timely Delivery of Medical Samples & Reports",
+      "services": "Our Services",
+      "pricing": "Pricing",
+      "discounts": "Special Offers",
+      "reportBug": "Report an Issue",
+      "terms": "Terms of Service",
+      "company": "About Us",
+      "blog": "Blog",
+      "ourMission": "Our Mission",
+      "getTouch": "Stay Connected",
+      "community": "Community Engagement",
+      "support": "Customer Support",
+      "questions": "FAQs",
+      "help": "Need Help?"
+    }
+  ,
+  "scrollUp": {
+    "title": "Back to top!"
+  },
+  "languageChanger": {
+    "languageSelector": "Language selector",
+    "zoneName": "EEUU",
+    "langName": "English",
+    "zoneFlag": "$t(languageChanger.langName) language"
+  },
+  "colorChanger": {
+    "#93ACE7w": "change to #93ACE7w theme!",
+    "red": "change to red theme!",
+    "orange": "change to orange theme!",
+    "green": "change to green theme!"
+  }
+}
